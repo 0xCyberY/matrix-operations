@@ -1,0 +1,40 @@
+Enter size of 1st matrix
+2 2
+Enter 1st matrix
+2 2
+3 3
+Enter size of 2nd matrix
+2 2
+Enter 2nd matrix
+4 4
+2 2
+Matrix Operations:
+ 1. Addition
+ 2. Subtraction
+ 3.Multiplication
+Enter your choice : 1
+Matrix Addition is :
+6 6
+5 5
+__________________________
+Enter size of 1st matrix
+3 3
+Enter 1st matrix
+1 5 9
+3 5 7
+6 5 4
+Enter size of 2nd matrix
+3 3
+Enter 2nd matrix
+1 4 7
+2 5 8
+3 6 9
+Matrix Operations:
+ 1. Addition
+ 2. Subtraction
+ 3.Multiplication
+Enter your choice : 3
+Matrix Multiplication is :
+38 83 128
+34 79 124
+28 73 118
